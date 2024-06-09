@@ -381,6 +381,9 @@ enum Language {
   /// Serbian
   sr,
 
+  /// Serbian (Latin)
+  sr_Latn,
+
   /// Swati
   ss,
 
