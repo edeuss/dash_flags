@@ -84,6 +84,9 @@ enum Language {
   /// German
   de,
 
+  /// Swiss German
+  de_ch,
+
   /// Divehi
   dv,
 
