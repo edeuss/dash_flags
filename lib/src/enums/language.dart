@@ -456,6 +456,12 @@ enum Language {
   /// Yucateco
   yua,
 
+  /// Chinese - Simplified
+  zh_Hans,
+
+  /// Chinese - Traditional
+  zh_Hant,
+
   /// Chinese - Traditional
   zh_TW,
 
