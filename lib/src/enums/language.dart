@@ -42,6 +42,9 @@ enum Language {
   /// Bulgarian
   bg,
 
+  /// Tibetan (People's Republic of China)
+  bo,
+
   /// Bhojpuri
   bho,
 
